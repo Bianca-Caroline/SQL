@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "683508b25b5714fd3abf780e"
+  },
+  "título": "Emily Dickinson: Poemas de amor",
+  "autor": "Emily Dickinson",
+  "ano": "2022-12-01",
+  "preço": 40
+},
+{
+  "_id": {
+    "$oid": "683508b25b5714fd3abf780f"
+  },
+  "título": "o que o sol faz com as flores",
+  "autor": "Rupi Kaur",
+  "ano": "2018-02-26",
+  "preço": 45.61
+},
+{
+  "_id": {
+    "$oid": "683508b25b5714fd3abf7810"
+  },
+  "título": "Sociedade da Caveira de Cristal",
+  "autor": "Andréa del Fuego",
+  "ano": "2008-01-01",
+  "preço": 19.8
+}]

@@ -1,0 +1,1 @@
+db.getCollection('Livros').find({ preço: 19.8 });
